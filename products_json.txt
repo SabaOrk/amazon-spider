@@ -1,0 +1,7 @@
+{'productTitle': 'PlayStation 4 Pro 1TB Console - Call of Duty: Modern Warfare Bundle', 'productPrice': 361.0, 'productSeller': 'Playstation'}
+{'productTitle': 'Vogek On Ear Headphones with Mic, Lightweight Portable Fold-Flat Stereo Bass Headphones with 1.5M Tangle Free Cord and Microphone-Black', 'productPrice': 14.9, 'productSeller': 'VOGEK'}
+{'productTitle': 'Vogek On Ear Headphones with Mic, Lightweight Portable Fold-Flat Stereo Bass Headphones with 1.5M Tangle Free Cord and Microphone-Black', 'productPrice': 14.9, 'productSeller': 'VOGEK'}
+{'productTitle': 'Panasonic ErgoFit In-Ear Earbud Headphones RP-HJE120-K (Black) Dynamic Crystal Clear Sound, Ergonomic Comfort-Fit', 'productPrice': 7.89, 'productSeller': 'Panasonic'}
+{'productTitle': 'Panasonic ErgoFit In-Ear Earbud Headphones RP-HJE120-K (Black) Dynamic Crystal Clear Sound, Ergonomic Comfort-Fit', 'productPrice': 7.89, 'productSeller': 'Panasonic'}
+{'productTitle': 'Panasonic ErgoFit In-Ear Earbud Headphones RP-HJE120-K (Black) Dynamic Crystal Clear Sound, Ergonomic Comfort-Fit', 'productPrice': 7.89, 'productSeller': 'Panasonic'}
+{'productTitle': 'Panasonic ErgoFit In-Ear Earbud Headphones RP-HJE120-K (Black) Dynamic Crystal Clear Sound, Ergonomic Comfort-Fit', 'productPrice': 7.89, 'productSeller': 'Panasonic'}
